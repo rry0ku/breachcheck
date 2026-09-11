@@ -5,6 +5,10 @@ data breach, using [Have I Been Pwned](https://haveibeenpwned.com)'s free
 Pwned Passwords API, without ever sending your password, or even your full
 password hash, over the network.
 
+<p align="center">
+  <img src="screenshot.png"/>
+</p>
+
 ## How it works
 
 Your password is hashed locally (SHA1 by default, or NTLM with `-n`). Only
