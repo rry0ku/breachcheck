@@ -32,7 +32,7 @@ queried this bucket," never which specific password you checked.
 ## Usage
 
 ```bash
-chmod +x checkpwned.sh
+chmod +x breachcheck.sh
 
 ./breachcheck.sh                        # interactive check, visible input
 ./breachcheck.sh -h                     # interactive check, hidden input
